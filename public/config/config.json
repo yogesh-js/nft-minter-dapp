@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x96b2B21A60aA72b1eE984202e3EC9b919B3b40C7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x96b2b21a60aa72b1ee984202e3ec9b919b3b40c7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Invisible Buddies",
+  "SYMBOL": "IBUD",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/invisible-buddies",
+  "SHOW_BACKGROUND": true
+}
